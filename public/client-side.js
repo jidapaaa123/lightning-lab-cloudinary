@@ -1,5 +1,5 @@
-const api_key = "587569188571965"
-const cloud_name = "detbsqps4"
+const api_key = "API_KEY"
+const cloud_name = "CLOUD_NAME"
 // It's okay for these to be public on client-side JS
 // You just don't ever want to leak your API Secret
 

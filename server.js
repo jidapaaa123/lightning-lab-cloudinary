@@ -44,7 +44,7 @@ app.get("/", (req, res) => {
 
     <hr />
 
-    <a href="/view-photos">How would I use the public_id values that I store in my database?</a>
+    <a href="/view-photos">View My Photos</a>
 
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script src="/client-side.js"></script>
